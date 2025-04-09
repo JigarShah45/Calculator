@@ -25,7 +25,7 @@ A sleek and minimalistic calculator built using **HTML**, **CSS**, and **JavaScr
 
 ## 🔗 Visit My Project
 
-🌐 **Live Demo**: [Click Here to Open 🚀]()
+🌐 **Live Demo**: [Click Here to Open 🚀](https://jigarshah45.github.io/Calculator/)
 
 ---
 
