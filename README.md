@@ -1,4 +1,4 @@
-# Simple Web Calculator
+# 🔢💻 Simple Web Calculator
 
 A sleek and minimalistic calculator built using **HTML**, **CSS**, and **JavaScript**. This calculator can perform basic arithmetic operations including addition, subtraction, multiplication, division, modulo, and supports decimal values.
 
